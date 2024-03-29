@@ -1,7 +1,3 @@
-<div style="text-align:center;margin:auto">
-  <img  src="./ahmed.JPG" width="100%" height="700" >
-</div>
-</br>
 </br>
 <h2>Hey there! I'm  <b>Ahmed Samy</b>  
 <a href="https://www.linkedin.com/in/ahmedsamy012/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
