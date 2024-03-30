@@ -1,5 +1,5 @@
 <h2>Hey there! I'm  <b>Ahmed Samy</b>  
-<a href="https://www.linkedin.com/in/ahmedsamy012/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedsamy0/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </h2>
 
 
@@ -16,8 +16,6 @@
 🎓 &nbsp;I have been studied Computer Science and Mathematics at Menoufia University in Egypt.
 
 🌱 &nbsp;I'm on track for learning more about Software Development, Systems Design and Problem Solving Technique.
-
-✍️ &nbsp;Iin my free time, I pursue Reading Books and make Videos Tips and Tricks on my Youtube channel.
 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
@@ -67,7 +65,7 @@
 
 </br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmedsamy012/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedsamy0/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/ahmed_samy01/"><img src="https://img.shields.io/badge/-AhmedSamy-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
 <a href="mailto:ahmed.samyy2000@gmail.com"><img src="https://img.shields.io/badge/-Ahmed%20Samy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
