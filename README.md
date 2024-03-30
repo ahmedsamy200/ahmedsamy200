@@ -1,5 +1,5 @@
 <h2>Hey there! I'm  <b>Ahmed Samy</b>  
-<a href="https://www.linkedin.com/in/ahmedsamy0/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedsamy0/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </h2>
 
 
@@ -65,9 +65,9 @@
 
 </br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmedsamy0/"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/ahmed_samy01/"><img src="https://img.shields.io/badge/-AhmedSamy-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
-<a href="mailto:ahmed.samyy2000@gmail.com"><img src="https://img.shields.io/badge/-Ahmed%20Samy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedsamy0/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Samy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/ahmed_samy01/" target="_blank"><img src="https://img.shields.io/badge/-AhmedSamy-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
+<a href="mailto:ahmed.samyy2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Samy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
